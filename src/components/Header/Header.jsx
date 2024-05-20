@@ -2,6 +2,7 @@ import profile from '../../assets/images/ProfileIcon.png';
 import icon from '../../assets/images/icon.png';
 
 const Header = () => {
+  
   return (
     <div className="navbar bg-base-100 mb-10">
       <div className="navbar-start">
@@ -32,7 +33,7 @@ const Header = () => {
       </div>
       <div className="navbar-end gap-4">
         <div>
-          <h4></h4>
+          
           <img src={icon} alt="" />
         </div>
         <img src={profile} alt="" />

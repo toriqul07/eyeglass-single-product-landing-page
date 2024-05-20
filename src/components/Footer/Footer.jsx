@@ -5,7 +5,7 @@ import twitter from '../../assets/images/twitter.png';
 const Footer = () => {
     return (
         <div className='lg:ml-60'>
-            <div className="top-[6440px] lg:flex lg:gap-20  absolute  lg:top-[3936px] lg:left-[30px] lg:w-[1804px] h-[3000px] lg:h-[368px] lg:pl-10 pt-5">
+            <div className="top-[6440px] mt-24 lg:mt-28 lg:flex lg:gap-20  absolute  lg:top-[3936px] lg:left-[30px] lg:w-[1804px] h-[3000px] lg:h-[568px] lg:pl-10 pt-5">
                 <div className='pb-4'>
                     <h1 className="pt-3 pb-3 font-bold text-3xl"><span className="text-black">Eye</span><span className="text-yellow-400">Glass</span></h1>
                     <h6 className=" pb-3 font-jost font-normal text-xs leading-[26px]">Latin literature from 45 BC, making it over 2000 <br />years old. Richard McClintock, at <br /> Latin professor at Hampde</h6>

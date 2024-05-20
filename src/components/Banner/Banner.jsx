@@ -11,7 +11,7 @@ const Banner = () => {
         <div>
             <div className='bg-[#eaeaeaf3]'>
                 <div className='mb-10 md:absolute md:top-[422px] md:left-[120px] md:w-[566px] md:h-[102px] md:text-3xl md:leading-[66px]'>
-                    <h2 className=" font-jost font-bold text-black">Personalized Eyeglass<br />Shopping</h2>
+                    <h2 className="font-jost font-bold text-black">Personalized Eyeglass<br />Shopping</h2>
                     <div className='flex items-center gap-6'>
                         <img src={icon} alt="" />
                         <h4 className='bg-black text-white lg:w-[76px] lg:h-[26px] font-jost font-bold lg:text-[18px] lg:leading-[26.01px]'>BuyNow</h4>
