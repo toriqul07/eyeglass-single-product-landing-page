@@ -20,7 +20,7 @@ const Products = () => {
 
                     {/* 1 */}
 
-                    <div className='lg:gap-4 bg-[#F7F7F7]'>
+                    <div className='lg:gap-4 bg-[#F7F7F7] lg:p-4'>
                         <div className='mt-4'>
                             <div className='flex gap-2 lg:flex lg:items-center lg:justify-between'>
                                 <img src={discount} alt="" />
@@ -41,7 +41,7 @@ const Products = () => {
 
 
                     {/* 2 */}
-                    <div className='lg:gap-4 bg-[#F7F7F7]'>
+                    <div className='lg:gap-4 bg-[#F7F7F7] lg:p-4'>
                         <div className='mt-4'>
                             <div className='flex gap-2 lg:flex lg:items-center lg:justify-between'>
                                 <img src={discount} alt="" />
@@ -52,16 +52,16 @@ const Products = () => {
                             </div>
                             <img className='pl-10 lg:pl-20' src={slider1} alt="" />
                         </div>
-                        <h4 className='font-jost font-normal lg:text-3xl leading-[40px]'>Bravo Sunglasses</h4>
-                        <div className='flex gap-1'>
+                        <h4 className='font-jost font-normal lg:text-3xl leading-[40px] lg:pb-4'>Bravo Sunglasses</h4>
+                        <div className='flex gap-1 lg:pb-4'>
                             <h6 className='font-jost font-bold lg:text-[20px] leading-[30px]'>$100</h6>
                             <h6 className='font-jost font-bold lg:text-[20px] leading-[30px]'>$150</h6>
                         </div>
-                        <h6 className='font-jost font-normal lg:text-[20px] lg:leading-[28.9px]'>Add To Cart</h6>
+                        <h6 className='font-jost font-normal lg:text-[20px] lg:leading-[28.9px] lg:pb-4'>Add To Cart</h6>
                     </div>
 
                     {/* 3 */}
-                    <div className='lg:gap-4 bg-[#F7F7F7]'>
+                    <div className='lg:gap-4 bg-[#F7F7F7] lg:p-4'>
                         <div className='mt-4'>
                             <div className='flex gap-2 lg:flex lg:items-center lg:justify-between'>
                                 <img src={discount} alt="" />
@@ -81,7 +81,7 @@ const Products = () => {
                     </div>
 
                     {/* 4 */}
-                    <div className='lg:gap-4 bg-[#F7F7F7]'>
+                    <div className='lg:gap-4 bg-[#F7F7F7] lg:p-4'>
                         <div className='mt-4'>
                             <div className='flex gap-2 lg:flex lg:items-center lg:justify-between'>
                                 <img src={discount} alt="" />
@@ -101,7 +101,7 @@ const Products = () => {
                     </div>
 
                     {/* 5 */}
-                    <div className='lg:gap-4 bg-[#F7F7F7]'>
+                    <div className='lg:gap-4 bg-[#F7F7F7] lg:p-4'>
                         <div className='mt-4'>
                             <div className='flex gap-2 lg:flex lg:items-center lg:justify-between'>
                                 <img src={discount} alt="" />
@@ -121,7 +121,7 @@ const Products = () => {
                     </div>
 
                     {/* 6 */}
-                    <div className='lg:gap-4 bg-[#F7F7F7]'>
+                    <div className='lg:gap-4 bg-[#F7F7F7] lg:p-4'>
                         <div className='mt-4'>
                             <div className='flex gap-2 lg:flex lg:items-center lg:justify-between'>
                                 <img src={discount} alt="" />
